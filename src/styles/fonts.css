@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Achemost;
+    src: url('/fonts/Achemost.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Contax;
+    src: url('/fonts/Contax.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

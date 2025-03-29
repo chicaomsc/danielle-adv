@@ -1,0 +1,25 @@
+@import "../styles/fonts.css";
+@import "tailwindcss";
+
+:root {
+  --background: #3B3223;
+  --foreground: #171717;
+
+  
+}
+
+@theme {
+  --font-achemost: Achemost, "san-serif";
+  --font-contax: Contax, "san-serif";
+
+  --text-color-primary: #CAB155;
+  --text-color-highlight: #F7D965C2;
+  --text-color-muted: #D0BB8C;
+  --text-color-base: #3B3223;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
