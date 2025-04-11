@@ -6,7 +6,7 @@ export default function Footer() {
           Desenvolvido por <a href="">@chicodw</a>
         </p>
         <p className="text-[#F7D965] text-[15px]">
-          Todos os direitos reservados © 2025 — Daniella Fernanda - OAB
+          Todos os direitos reservados © 2025 — Danielle Fernanda - OAB
           000000/SP
         </p>
       </div>

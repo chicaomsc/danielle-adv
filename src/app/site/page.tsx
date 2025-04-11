@@ -11,7 +11,7 @@ export default function SitePage() {
             Em construção
           </h1>
           <p className="text-[#F7D965] text-lg md:text-xl font-contax">
-            O site completo da Dra. Daniella Fernanda está sendo preparado com
+            O site completo da Dra. Danielle Fernanda está sendo preparado com
             todo carinho.
           </p>
           <p className="text-[#F7D965] text-lg md:text-xl font-contax mt-2">

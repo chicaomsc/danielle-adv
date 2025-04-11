@@ -13,7 +13,7 @@ export default function Header() {
         />
         <Image
           src="/dani.png"
-          alt="Foto da Dra. Daniella Fernanda"
+          alt="Foto da Dra. Danielle Fernanda"
           width={179}
           height={192}
           priority

@@ -3,7 +3,7 @@ import { LuGlobe } from "react-icons/lu";
 
 const numero = "5599982249471";
 const mensagem =
-  "Olá Dra. Daniella, acessei seu link da bio e gostaria de agendar uma consulta. Poderia me orientar sobre a disponibilidade?";
+  "Olá Dra. Danielle, acessei seu link da bio e gostaria de agendar uma consulta. Poderia me orientar sobre a disponibilidade?";
 
 const buttons = [
   {
